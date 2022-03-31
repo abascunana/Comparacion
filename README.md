@@ -1,4 +1,4 @@
-#Comparacion
+
 Variable and Comparison Operators
 
 Task 1
